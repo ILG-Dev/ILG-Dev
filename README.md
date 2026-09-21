@@ -24,4 +24,4 @@ Confira os projetos fixados abaixo para ver exemplos do meu trabalho.
 **📫 Contato**
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5561993166154) (61) 99316-6154
-📧 conta.ilg.dev@gmail.com
+📧 contato.ilg.dev@gmail.com
